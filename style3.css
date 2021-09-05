@@ -1,0 +1,12 @@
+p {
+    font-style: italic;
+}
+p {
+    font-size: 20px;
+}
+h1 {
+    font-style: unset;
+}
+body {
+    background-image: blue;
+}
